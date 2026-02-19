@@ -1,0 +1,6 @@
+print(10>5)
+print((2*4)<=(2**4))
+print(True==1)
+print(True==3)
+print((33**True)>=(33**False))
+print((25>=(2**3)<(10+2)<(15+5)))
